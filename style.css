@@ -2,4 +2,16 @@
 
 body{
     background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
+    display: block;
+    width: 98vw;
+    height: 98vh;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-position: 30% 45%;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
