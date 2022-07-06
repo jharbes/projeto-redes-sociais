@@ -23,6 +23,7 @@ body{
 main{
     position: relative;
     height: 100vh;
+    display: block;
 }
 section#telefone{
     position: absolute;
@@ -41,6 +42,7 @@ iframe#tela{
 }
 section#redes-sociais{
     text-align: right;
+    display: inline-block;
 }
 section#redes-sociais img{
     width: 50px;
