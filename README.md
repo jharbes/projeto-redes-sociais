@@ -1,6 +1,6 @@
 # projeto-social
  Projeto de Redes Sociais - CursoemVideo
  
- <h2>EM CONSTRUÇÃO</h2>
+ Página com redes sociais pessoais, projeto feito apenas em HTML e CSS, com utilização de CSS FlexBox e Iframes.
  
  https://jharbes.github.io/projeto-social/
