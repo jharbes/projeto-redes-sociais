@@ -38,7 +38,7 @@ iframe#tela{
 }
 section#redes-sociais{
     text-align: center;
-    display: block
+    display: block;
 }
 section#redes-sociais img{
     width: 50px;
@@ -49,4 +49,14 @@ section#redes-sociais img{
 }
 section#redes-sociais img:hover{
     box-shadow: 0px 0px 10px 7px rgba(153, 205, 50, 0.767);
+}
+
+@media screen and (orientation: landscape) {
+    section#redes-sociais{
+        text-align: right;
+        display: block;
+    }
+    a{
+        display: block;
+    }
 }
