@@ -50,7 +50,7 @@ section#redes-sociais img{
 section#redes-sociais img:hover{
     box-shadow: 0px 0px 10px 7px rgba(153, 205, 50, 0.767);
 }
-
+/*
 @media screen and (orientation: landscape) {
     section#redes-sociais{
         text-align: right;
@@ -60,3 +60,4 @@ section#redes-sociais img:hover{
         display: block;
     }
 }
+*/
