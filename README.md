@@ -7,4 +7,4 @@
  
 Página com redes sociais pessoais, projeto feito apenas em HTML e CSS, com utilização de CSS FlexBox e Iframes.
  
-Acesse em: https://jharbes.github.io/projeto-social/
+Acesse em: https://jharbes.github.io/projeto-redes-sociais/
